@@ -1,4 +1,4 @@
-git branch -m master update_script
-git fetch origin
-git branch -u origin/update_script update_script
-git remote set-head origin -a
+echo “git pull”> up_to_date
+
+
+
